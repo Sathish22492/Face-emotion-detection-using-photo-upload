@@ -35,7 +35,7 @@ I have utilized the FER 2013 dataset provided on Kaggle.
 The data consists of 48x48 pixel grayscale images of faces. The faces have been automatically registered so that the face is more or less centred and occupies about the same amount of space in each image.
 
 #Dependencies:
-  Install these libraries before running the colab notebook.
+  Install these libraries before running the program.
 
 1. numpy
 2. streamlit
